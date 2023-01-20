@@ -11,4 +11,4 @@ A Git tutorial repository.
 - Create a pull request.
 - Wait for magic. :) Just kidding.
 
-Enjoy!
+Enjoy
