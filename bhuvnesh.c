@@ -9,7 +9,7 @@ int main() {
 	char* string = "Lanke vamsi kiran."; // Your name here. ^_^
   char* string = "Sunny Arora."; // Your name here. ^_^
 	char string = "Md. Touhidul Islam"; //Your name here. ^_^
-    har string = "Bhuvnesh Thakre"; //Your name here. ^_^
+    har string = "Bhuvnesh   Thakre"; //Your name here. ^_^
 	printf("%s\n", string);
 	printf("just to see the conflict :) %s\n",string1);
 	return 0;
