@@ -2,7 +2,7 @@
 
 int main() {
 
-	char* string = "Param Siddharth."; // Your name here. ^_^
+	char* string = "Sandeep Yadav."; // Your name here. ^_^
 	char* string1 = " - Sweetie"; // Your name here. ^_^
 	char* string = "Anamika Chamola"; // Your name here. ^_^
 	char* string = "Deepak Vishwakarma."; // Your name here. ^_^
